@@ -328,7 +328,7 @@
             <div class="inner">
                 <h3>153<sup style="font-size: 20px"></sup></h3>
 
-                <p>ASIS</p>
+                <p>ASISS</p>
               </div>
               <div class="icon">
               <i class="ion ion-stats-bars"></i>
